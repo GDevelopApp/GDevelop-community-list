@@ -18,6 +18,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Encrypted Storage](https://pandako.itch.io/es4gd)                                                   | By using this extension, you can easily implement save data obfuscation and tamper prevention in your game. | [PANDAKO](https://pandako.itch.io/)                                 |
 | [Trigger Once Condition for Object](https://github.com/PANDAKO-GitHub/TriggerOnceConditionForObject) | This behavior adds a "Trigger once per instance" condition to the object (instance).                        | [PANDAKO](https://pandako.itch.io/)                                 |
 | [If Else](https://github.com/UlisesFreitas/If-Else-for-GDevelop)                                     | Compare variables with an if/else notation.                                                                 | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
+| [GDAddon](https://github.com/Kravataf/GDA)                                     | Load multiple Javascript "addons" you can access/modify/execute by specific name                                                                 | [Kravataf](https://github.com/Kravataf) |
 
 ## Audio
 
