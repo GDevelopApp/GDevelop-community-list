@@ -121,6 +121,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Animation system 3d Advanced](https://github.com/GuestGD/Animation_system_3D_Advanced_Gdevelop) | Create bone groups to play several animations simultaneously.                    | [GuestGD](https://github.com/GuestGD?tab=repositories)        |
 | [Material 3D](https://avram.itch.io/material3d-gdevelop-extension)                               | Manipulate 3D material properties of 3D objects.                                 | [Avram](https://avram.itch.io/)                               |
 | [Persona](https://avram.itch.io/persona-gdevelop-extension)                                      | Add personality to game objects.                                                 | [Avram](https://avram.itch.io/)                               |
+| [K3D](https://kravataf.itch.io/gdevelop-extensions)                                      | Add more actions to manipulate threeJS                                                 | [Kravataf](https://github.com/Kravataf)                               |
 
 # 💪 How to contribute?
 
