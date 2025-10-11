@@ -48,6 +48,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Quests Creator](https://github.com/UlisesFreitas/QuestsCreator)  | Create quests like collect 3 coins, or kill 3 zombies.                                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Easy Save](https://github.com/UlisesFreitas/EasySave)            | Save data easily without worrying about creating variables or Storage.                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Distance of draw](https://anaw.itch.io/distanceofdraw)           | Make the object disappear if is too far away.                                                                        | [anaw studios](https://anaw.itch.io/)                               |
+| [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)           | A simple yet powerful system for creating and managing timed combos.                                   | [Raada](https://raada.itch.io/)                               |
+
 
 ## General
 
