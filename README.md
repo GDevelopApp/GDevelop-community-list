@@ -48,7 +48,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Quests Creator](https://github.com/UlisesFreitas/QuestsCreator)  | Create quests like collect 3 coins, or kill 3 zombies.                                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Easy Save](https://github.com/UlisesFreitas/EasySave)            | Save data easily without worrying about creating variables or Storage.                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Distance of draw](https://anaw.itch.io/distanceofdraw)           | Make the object disappear if is too far away.                                                                        | [anaw studios](https://anaw.itch.io/)                               |
-| [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)           | A simple yet powerful system for creating and managing timed combos.                                   | [Raada](https://raada.itch.io/)                               |
+| [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)                  | A simple yet powerful system for creating and managing timed combos.                            | [Raada](https://raada.itch.io/)   |
+| [Finite State Machine](https://raada.itch.io/finite-state-machine-gdevelop-extension)  | Adds two powerful Finite State Machine (FSM) behaviors to GDevelop.                             | [Raada](https://raada.itch.io/)   |
 
 
 ## General
@@ -57,6 +58,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | -------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------- |
 | [Oscilate function](https://github.com/GuestGD/Oscilate_function_Gdevelop) | Oscilate function.                          | [GuestGD](https://github.com/GuestGD?tab=repositories)              |
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
+| [Advanced Timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
 
 ## Input
 
@@ -104,6 +106,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Load Custom Image](https://omega-slender.itch.io/load-custom-image-extension-for-gdevelop)               | Load custom images using folders, variables, or a dialog box to apply them to sprite objects. | [Omega Slender](https://omega-slender.itch.io/)                     |
 | [Dialogue System Combo](https://h0ndred.itch.io/gdevelop-dialogue-system-extension)                       | A simplified dialogue system based on the dialogue tree and yarn.                             | [H0ndred](https://h0ndred.itch.io/)                                 |
 | [Dynamic Dialog Box](https://ajotanc.itch.io/dynamic-dialog-box)                                          | Create a dynamic dialogue or story without using Yarn.                                        | [Alerson Jorge](https://ajotanc.itch.io/)                           |
+| [Auto Active UI](https://raada.itch.io/auto-active-ui-gdevelop-extension)                                 | Provides a set of behaviors to automatically manage the interactive state of your UI objects. | [Raada](https://raada.itch.io/)                               |
+| [Translate](https://avram.itch.io/translate-gdevelop-extension)                                           | Easily manage translations of your game within external JSON files.                           | [Avram](https://avram.itch.io/)   |
 
 ## Visual effect
 
