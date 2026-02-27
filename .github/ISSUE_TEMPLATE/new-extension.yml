@@ -1,0 +1,57 @@
+name: ✨New extension
+description: Submit your extension to be integrated in the list of community extensions
+title: 'New extension: <title>'
+labels: [✨ New extension]
+body:
+  - type: markdown
+    attributes:
+      value: '# Extension submission'
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what your extension does here.
+      placeholder: This extension adds...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - label: General
+        - label: Ads
+        - label: Advanced
+        - label: Audio
+        - label: Camera
+        - label: Game mechanic
+        - label: Input
+        - label: Movement
+        - label: Network
+        - label: Third-party
+        - label: User interface
+        - label: Visual effect
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Category
+      description: Describe what your extension does here.
+      placeholder: This extension adds...
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Link to the extension page
+      description: Please add a link to the page where people can learn more about your extension and download it.
+      placeholder: 'https://myaccount.itch.io/MyExtension'
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Please consider opening a pull request to speed up the process by following [this tutorial](https://github.com/GDevelopApp/GDevelop-community-list/blob/main/documentation/Submission.md).
+        Your extension will be added to the list after we have checked that it contains no virus.
+        Thanks for contributing to GDevelop! 🙌
