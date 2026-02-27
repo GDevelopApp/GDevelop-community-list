@@ -16,6 +16,10 @@ This step is only necessary for your first submission.
 
 This step is only necessary for your following submissions.
 
+- Click on the **Sync fork** button
+
+![](sync-fork.png)
+
 [Learn more about syncing forks...](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
 ## Add the link to your own copy
