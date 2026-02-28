@@ -38,7 +38,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Category
+      label: Description
       description: Describe what your extension does here.
       placeholder: This extension adds...
     validations:

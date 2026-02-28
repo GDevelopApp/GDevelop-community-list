@@ -58,4 +58,4 @@ This dialog should open:
 
 ![](choose-gdevelop-repository.png)
 
-[Learn mor about pull requests...](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+[Learn more about pull requests...](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
