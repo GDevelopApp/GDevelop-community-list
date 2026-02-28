@@ -132,7 +132,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 
 # 💪 How to contribute?
 
-If you’d like to have your extension included in the community list, you can do so by either opening [a new issue](https://github.com/GDevelopApp/GDevelop-community-list/issues/new) in the repository or by posting a message on the GDevelop forum. Better, you can open a Pull Request so that the maintainers just have to merge it.
+If you’d like to have your extension included in the community list, you can do so by either opening [a new issue](https://github.com/GDevelopApp/GDevelop-community-list/issues/new) in the repository or by posting a message on the GDevelop forum. Better, you can open [a Pull Request](https://github.com/GDevelopApp/GDevelop-community-list/blob/main/documentation/Submission.md) so that the maintainers just have to merge it.
 
 > [!NOTE]
 > All **developers are welcome** to submit their extensions to the list. Please note that while the repository maintainers will not perform a full code review, any listed extension must be **safe to use** (no malware) and must not contain **illegal or harmful content**. Ensuring basic safety is essential to maintaining a trusted collection of community-contributed extensions.

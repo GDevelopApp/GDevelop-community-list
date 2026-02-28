@@ -18,19 +18,21 @@ body:
     id: category
     attributes:
       label: Category
+      multiple: false
       options:
-        - label: General
-        - label: Ads
-        - label: Advanced
-        - label: Audio
-        - label: Camera
-        - label: Game mechanic
-        - label: Input
-        - label: Movement
-        - label: Network
-        - label: Third-party
-        - label: User interface
-        - label: Visual effect
+        - General
+        - Ads
+        - Advanced
+        - Audio
+        - Camera
+        - Game mechanic
+        - Input
+        - Movement
+        - Network
+        - Third-party
+        - User interface
+        - Visual effect
+      default: 0
     validations:
       required: true
   - type: textarea
