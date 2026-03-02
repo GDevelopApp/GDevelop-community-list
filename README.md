@@ -133,6 +133,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [PBR Maps 3D](https://eldritchtentacles.itch.io/pbrmaps3d-gdevelop-extension)                    | Add PBR maps to 3D objects.                                                      | [Eldritch](https://eldritchtentacles.itch.io/) |
 | [Texture 3D](https://eldritchtentacles.itch.io/texture3d-gdevelop-extension)                     | Replace textures or play sprite animations on 3D objects.                        | [Eldritch](https://eldritchtentacles.itch.io/) |
 | [Materials 3D](https://eldritchtentacles.itch.io/materials3d-gdevelop-extension)                 | Change material types and look of 3D objects.                                    | [Eldritch](https://eldritchtentacles.itch.io/) |
+
 # 💪 How to contribute?
 
 If you’d like to have your extension included in the community list, you can do so by either opening [a new issue](https://github.com/GDevelopApp/GDevelop-community-list/issues/new) in the repository or by posting a message on the GDevelop forum. Better, you can open a Pull Request so that the maintainers just have to merge it.
