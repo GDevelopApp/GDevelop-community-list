@@ -51,6 +51,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)                  | A simple yet powerful system for creating and managing timed combos.                            | [Raada](https://raada.itch.io/)   |
 | [Finite State Machine](https://raada.itch.io/finite-state-machine-gdevelop-extension)  | Adds two powerful Finite State Machine (FSM) behaviors to GDevelop.                             | [Raada](https://raada.itch.io/)   |
 | [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites. | [Puko](https://github.com/pukosnds) |
+| [Change Tilemap ID](https://bubbleone.itch.io/gdevelop-extension-tilemapchangeid) | Change the id of all tiles in a tilemap (not suitable for external tilemaps). | [Bubble](https://bubbleone.itch.io/) |
 
 
 ## General
