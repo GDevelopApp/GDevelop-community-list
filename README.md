@@ -19,6 +19,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Trigger Once Condition for Object](https://github.com/PANDAKO-GitHub/TriggerOnceConditionForObject) | This behavior adds a "Trigger once per instance" condition to the object (instance).                        | [PANDAKO](https://pandako.itch.io/)                                 |
 | [If Else](https://github.com/UlisesFreitas/If-Else-for-GDevelop)                                     | Compare variables with an if/else notation.                                                                 | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [GDAddon](https://github.com/Kravataf/GDA)                                     | Load multiple Javascript "addons" you can access/modify/execute by specific name                                                                 | [Kravataf](https://github.com/Kravataf) |
+| [Quaternion](https://github.com/MooseMakesGames/Quaternion-implementation-in-GDevelop)               | Apply 3D rotation operations                                                                                | [MooseMakesGames](https://github.com/MooseMakesGames)               |
 
 ## Audio
 
@@ -85,6 +86,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [THNK](https://github.com/arthuro555/THNK)                                                | An authoritative multiplayer games framework.               | [arthuro555](https://github.com/arthuro555) |
 | [Online Multiplayer](https://pandako.itch.io/ome4gd)                                      | This is an extension for creating online multiplayer games. | [PANDAKO](https://pandako.itch.io/)         |
 | [Photon Realtime Helpers](https://planktonfun.itch.io/gdevelop-5-photon-engine-extension) | Simplifies integration with the Photon JS Realtime SDK      | [planktonfun](https://planktonfun.itch.io/) |
+| [Filepack](https://cokiesyum.itch.io/extensions)                                          | Download and upload zip image and text files.               | [Hiro](https://cokiesyum.itch.io)           |
 
 ## Third-party
 
@@ -106,6 +108,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Fancy Score](https://github.com/UlisesFreitas/FancyScore)                                                | Make a number look fancy like 1 to 0001.                                                      | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Select Box](https://avram.itch.io/selectbox-gdevelop-extension)                                          | A drop down select box for users to choose from multiple items.                               | [Avram](https://avram.itch.io/)                                     |
 | [Load Custom Image](https://omega-slender.itch.io/load-custom-image-extension-for-gdevelop)               | Load custom images using folders, variables, or a dialog box to apply them to sprite objects. | [Omega Slender](https://omega-slender.itch.io/)                     |
+| [Dialogue Box](https://pandako.itch.io/dialog-box-extension)                                              | Dialog Boxes that can be used for RPGs, visual novels, and more.                              | [PANDAKO](https://pandako.itch.io/)                                 |
 | [Dialogue System Combo](https://h0ndred.itch.io/gdevelop-dialogue-system-extension)                       | A simplified dialogue system based on the dialogue tree and yarn.                             | [H0ndred](https://h0ndred.itch.io/)                                 |
 | [Dynamic Dialog Box](https://ajotanc.itch.io/dynamic-dialog-box)                                          | Create a dynamic dialogue or story without using Yarn.                                        | [Alerson Jorge](https://ajotanc.itch.io/)                           |
 | [Auto Active UI](https://raada.itch.io/auto-active-ui-gdevelop-extension)                                 | Provides a set of behaviors to automatically manage the interactive state of your UI objects. | [Raada](https://raada.itch.io/)                               |
