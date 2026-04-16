@@ -20,6 +20,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [If Else](https://github.com/UlisesFreitas/If-Else-for-GDevelop)                                     | Compare variables with an if/else notation.                                                                 | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [GDAddon](https://github.com/Kravataf/GDA)                                     | Load multiple Javascript "addons" you can access/modify/execute by specific name                                                                 | [Kravataf](https://github.com/Kravataf) |
 | [Quaternion](https://github.com/MooseMakesGames/Quaternion-implementation-in-GDevelop)               | Apply 3D rotation operations                                                                                | [MooseMakesGames](https://github.com/MooseMakesGames)               |
+| [Compare three numbers](https://bubbleone.itch.io/gdevelop-extension-compare-three-numbers) | Check if a value is more than one number and less than another number. | [Bubble](https://bubbleone.itch.io/) |
 
 ## Audio
 
