@@ -64,6 +64,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Advanced Timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
 
+
 ## Input
 
 | Name                                                                       | Short Description                               | Author                              |
@@ -125,6 +126,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Plane Projection](https://github.com/FlokiTV/GDevelop-Plane-Projection)                         | Plane Projection                                                                 | [FlokiTV](https://github.com/FlokiTV)                         |
 | [Procedural 2D Clouds](https://eldarduil.itch.io/procedural-2d-clouds-extension-for-gdevelop)    | Generates procedural cloud like 2D shapes and patterns.                          | [Eldarduil](https://eldarduil.itch.io/)                       |
 | [Environment Map](https://eldarduil.itch.io/environment-map-for-gdevelop)                        | Allows to set Environment Map from cube map or hdri like Equirectangular images. | [Eldarduil](https://eldarduil.itch.io/)                       |
+| [Sprite Stacking](https://eldarduil.itch.io/sprite-stacking-extension-for-gdevelop)              | Create 3D looking sprites                                                        | [Eldarduil](https://eldarduil.itch.io)                        |
+| [Scatter On Surface](https://eldarduil.itch.io/scatteronsurfaceextension)                        | Scatter and place objects procedurally on height map 3D or any 3D model          | [Eldarduil](https://eldarduil.itch.io)                        |
 | [BabylonGD](https://aliustaoglu.itch.io/babylongd-gdevelop-in-3d)                                | Enable 3D with BabylonJS.                                                        | [Usta Games](https://aliustaoglu.itch.io/)                    |
 | [LOD (Level of Detail)](https://github.com/TheAvIGOLD/GdevelopExtension)                         | Change the level of detail according to the distance in 3D                       | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension) |
 | [Terrain](https://github.com/TheAvIGOLD/GdevelopExtension)                                       | Terrain creation and tools for its modification.                                 | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension) |
