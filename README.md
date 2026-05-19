@@ -64,6 +64,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Oscilate function](https://github.com/GuestGD/Oscilate_function_Gdevelop) | Oscilate function.                          | [GuestGD](https://github.com/GuestGD?tab=repositories)              |
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Advanced Timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
+| [Battery Percentage](https://creatorad.itch.io/gd-get-battery-percentage) | Get current battery percentage.                       | [Creator AD](https://creatorad.itch.io/)              
 
 ## Input
 
