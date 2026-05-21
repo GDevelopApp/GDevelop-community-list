@@ -51,6 +51,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Quests Creator](https://github.com/UlisesFreitas/QuestsCreator)  | Create quests like collect 3 coins, or kill 3 zombies.                                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Easy Save](https://github.com/UlisesFreitas/EasySave)            | Save data easily without worrying about creating variables or Storage.                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Distance of draw](https://anaw.itch.io/distanceofdraw)           | Make the object disappear if is too far away.                                                                        | [anaw studios](https://anaw.itch.io/)                               |
+| [Maze Generator](https://luxon5.itch.io/gdevelop-maze-extension-demo) | Create a maze with walls and a floor.                                                                            | [Luxon5](https://luxon5.itch.io/)                                   |
 | [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)                  | A simple yet powerful system for creating and managing timed combos.                            | [Raada](https://raada.itch.io/)   |
 | [Finite State Machine](https://raada.itch.io/finite-state-machine-gdevelop-extension)  | Adds two powerful Finite State Machine (FSM) behaviors to GDevelop.                             | [Raada](https://raada.itch.io/)   |
 | [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites. | [Puko](https://github.com/pukosnds) |
@@ -64,8 +65,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Oscilate function](https://github.com/GuestGD/Oscilate_function_Gdevelop) | Oscilate function.                          | [GuestGD](https://github.com/GuestGD?tab=repositories)              |
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Advanced Timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
-| [Screen Orientation](https://creatorad.itch.io/gdevelop-force-orientation)                   | Forces the orientation to portrait or landscape. | [Creator AD](https://creatorad.itch.io/)           |
-
+| [Screen Orientation](https://creatorad.itch.io/gdevelop-force-orientation) | Forces the orientation to portrait or landscape. | [Creator AD](https://creatorad.itch.io/)                       |         |
+| [Battery Percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
 
 ## Input
 
@@ -128,6 +129,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Plane Projection](https://github.com/FlokiTV/GDevelop-Plane-Projection)                         | Plane Projection                                                                 | [FlokiTV](https://github.com/FlokiTV)                         |
 | [Procedural 2D Clouds](https://eldarduil.itch.io/procedural-2d-clouds-extension-for-gdevelop)    | Generates procedural cloud like 2D shapes and patterns.                          | [Eldarduil](https://eldarduil.itch.io/)                       |
 | [Environment Map](https://eldarduil.itch.io/environment-map-for-gdevelop)                        | Allows to set Environment Map from cube map or hdri like Equirectangular images. | [Eldarduil](https://eldarduil.itch.io/)                       |
+| [Sprite Stacking](https://eldarduil.itch.io/sprite-stacking-extension-for-gdevelop)              | Create 3D looking sprites                                                        | [Eldarduil](https://eldarduil.itch.io)                        |
+| [Scatter On Surface](https://eldarduil.itch.io/scatteronsurfaceextension)                        | Scatter and place objects procedurally on height map 3D or any 3D model          | [Eldarduil](https://eldarduil.itch.io)                        |
 | [BabylonGD](https://aliustaoglu.itch.io/babylongd-gdevelop-in-3d)                                | Enable 3D with BabylonJS.                                                        | [Usta Games](https://aliustaoglu.itch.io/)                    |
 | [LOD (Level of Detail)](https://github.com/TheAvIGOLD/GdevelopExtension)                         | Change the level of detail according to the distance in 3D                       | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension) |
 | [Terrain](https://github.com/TheAvIGOLD/GdevelopExtension)                                       | Terrain creation and tools for its modification.                                 | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension) |
