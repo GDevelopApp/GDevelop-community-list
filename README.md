@@ -64,7 +64,6 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Advanced Timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
 
-
 ## Input
 
 | Name                                                                       | Short Description                               | Author                              |
