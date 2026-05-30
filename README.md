@@ -56,7 +56,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Finite State Machine](https://raada.itch.io/finite-state-machine-gdevelop-extension)  | Adds two powerful Finite State Machine (FSM) behaviors to GDevelop.                             | [Raada](https://raada.itch.io/)   |
 | [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites. | [Puko](https://github.com/pukosnds) |
 | [Change Tilemap ID](https://bubbleone.itch.io/gdevelop-extension-tilemapchangeid) | Change the id of all tiles in a tilemap (not suitable for external tilemaps). | [Bubble](https://bubbleone.itch.io/) |
-
+| [Sakura Dialog System](https://quetzalcoutl.itch.io/sakura-dialog-system) | A dialogue system made from scratch, designed for simplicity and ease of use, designed with GDevelop in mind. | [Quetzalcoutl](https://quetzalcoutl.itch.io) |
 
 ## General
 
@@ -119,6 +119,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Auto Active UI](https://raada.itch.io/auto-active-ui-gdevelop-extension)                                 | Provides a set of behaviors to automatically manage the interactive state of your UI objects. | [Raada](https://raada.itch.io/)                               |
 | [Translate](https://avram.itch.io/translate-gdevelop-extension)                                           | Easily manage translations of your game within external JSON files.                           | [Avram](https://avram.itch.io/)   |
 | [Performance Monitor](https://eldarduil.itch.io/performance-monitor-for-gdevelop)                         | Displays performance overlays (FPS, MS,  MB , Draw Calls, Triangles, Geometries, Texture)                           | [Eldarduil](https://eldarduil.itch.io/)   |
+| [Focus Objects](https://github.com/QuetzalcoutlDev/GDevelopFocusObjects) | A button/object focusing system that allows you to select objects using only the keyboard or controller. | [Quetzalcoutl](https://quetzalcoutl.itch.io) |
 
 ## Visual effect
 
