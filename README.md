@@ -15,13 +15,14 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 
 | Name                                                                                                 | Short Description                                                                                           | Author                                                              |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Encrypted Storage](https://pandako.itch.io/es4gd)                                                   | By using this extension, you can easily implement save data obfuscation and tamper prevention in your game. | [PANDAKO](https://pandako.itch.io/)                                 |
-| [Trigger Once Condition for Object](https://github.com/PANDAKO-GitHub/TriggerOnceConditionForObject) | This behavior adds a "Trigger once per instance" condition to the object (instance).                        | [PANDAKO](https://pandako.itch.io/)                                 |
+| [Encrypted storage](https://pandako.itch.io/es4gd)                                                   | By using this extension, you can easily implement save data obfuscation and tamper prevention in your game. | [PANDAKO](https://pandako.itch.io/)                                 |
+| [Trigger once condition for object](https://github.com/PANDAKO-GitHub/TriggerOnceConditionForObject) | This behavior adds a "Trigger once per instance" condition to the object (instance).                        | [PANDAKO](https://pandako.itch.io/)                                 |
 | [If Else](https://github.com/UlisesFreitas/If-Else-for-GDevelop)                                     | Compare variables with an if/else notation.                                                                 | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
-| [GDAddon](https://github.com/Kravataf/GDA)                                     | Load multiple Javascript "addons" you can access/modify/execute by specific name                                                                 | [Kravataf](https://github.com/Kravataf) |
+| [GDAddon](https://github.com/Kravataf/GDA)                                                           | Load multiple Javascript "addons" you can access/modify/execute by specific name                            | [Kravataf](https://github.com/Kravataf)                             |
 | [Quaternion](https://github.com/MooseMakesGames/Quaternion-implementation-in-GDevelop)               | Apply 3D rotation operations                                                                                | [MooseMakesGames](https://github.com/MooseMakesGames)               |
-| [Compare three numbers](https://bubbleone.itch.io/gdevelop-extension-compare-three-numbers) | Check if a value is more than one number and less than another number. | [Bubble](https://bubbleone.itch.io/) |
-| [Advanced Microphone](https://creatorad.itch.io/advanced-microphone-for-gd)                                                   | Convert microphone audio in base64 and play it.| [CreatorAD](https://creatorad.itch.io/)                                 |
+| [Compare three numbers](https://bubbleone.itch.io/gdevelop-extension-compare-three-numbers)          | Check if a value is more than one number and less than another number.                                      | [Bubble](https://bubbleone.itch.io/)                                |
+| [Advanced microphone](https://creatorad.itch.io/advanced-microphone-for-gd)                          | Convert microphone audio in base64 and play it.                                                             | [CreatorAD](https://creatorad.itch.io/)                             |
+| [WebLLM](https://avram.itch.io/webllm-gdevelop-extension)                                            | Run LLMs directly in the client (browser).                                                                  | [Avram](https://avram.itch.io/)                                     |
 
 ## Audio
 
@@ -29,7 +30,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ |
 | [Microphone](https://gamejolt.com/games/GDextensions/452994) | Adds actions for the microphone                              | [arthuro555](https://github.com/arthuro555)      |
 | [AudioCore](https://khantlol.itch.io/audiocore-extension)    | Sync to tempo/beat, play with dynamic music layers.          | [KhAnTlol](https://khantlol.itch.io/)            |
-| [Audio From URL](https://github.com/zotusx/AudioFromURL)     | Play music and sounds directly from the internet via a link. | [zotusx](https://github.com/zotusx/AudioFromURL) |
+| [Audio from URL](https://github.com/zotusx/AudioFromURL)     | Play music and sounds directly from the internet via a link. | [zotusx](https://github.com/zotusx/AudioFromURL) |
+| [Proximity voice](https://avram.itch.io/proximity-voice-gdevelop-extension) | Add proximity-based voice chat to your multiplayer games. | [Avram](https://avram.itch.io/)      |
 
 ## Camera
 
@@ -64,9 +66,10 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | -------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------- |
 | [Oscilate function](https://github.com/GuestGD/Oscilate_function_Gdevelop) | Oscilate function.                          | [GuestGD](https://github.com/GuestGD?tab=repositories)              |
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
-| [Advanced Timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
-| [Screen Orientation](https://creatorad.itch.io/gdevelop-force-orientation) | Forces the orientation to portrait or landscape. | [Creator AD](https://creatorad.itch.io/)                       |
-| [Battery Percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
+| [Advanced random](https://github.com/SnowyRawrGamer/AdvancedRandom)        | Seeded and weighted randomization.          | [Snowy Rawr Gamer](https://github.com/SnowyRawrGamer)               |
+| [Advanced timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
+| [Screen orientation](https://creatorad.itch.io/gdevelop-force-orientation) | Forces the orientation to portrait or landscape. | [Creator AD](https://creatorad.itch.io/)                       |
+| [Battery percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
 
 ## Input
 
