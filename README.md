@@ -23,6 +23,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Compare three numbers](https://bubbleone.itch.io/gdevelop-extension-compare-three-numbers)          | Check if a value is more than one number and less than another number.                                      | [Bubble](https://bubbleone.itch.io/)                                |
 | [Advanced microphone](https://creatorad.itch.io/advanced-microphone-for-gd)                          | Convert microphone audio in base64 and play it.                                                             | [CreatorAD](https://creatorad.itch.io/)                             |
 | [WebLLM](https://avram.itch.io/webllm-gdevelop-extension)                                            | Run LLMs directly in the client (browser).                                                                  | [Avram](https://avram.itch.io/)                                     |
+| [Ragdoll](https://avram.itch.io/ragdoll3d-gdevelop-extension) | Add realistic ragdoll physics to your 3D characters, compatible with Mixamo, Rigify, and Unreal Mannequin skeletons, powered by the Jolt physics engine. | [Avram](https://avram.itch.io/) |
 
 ## Audio
 
