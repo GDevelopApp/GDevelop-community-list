@@ -72,6 +72,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Advanced timers](https://raada.itch.io/advanced-timers)                   | Enhanced control and flexibility over time-based events in your game. | [Raada](https://raada.itch.io/)           |
 | [Screen orientation](https://creatorad.itch.io/gdevelop-force-orientation) | Forces the orientation to portrait or landscape. | [Creator AD](https://creatorad.itch.io/)                       |
 | [Battery percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
+| [Pixel House Time Pass](https://markusschuetz.itch.io/pixel-house-time-pass) | Create persistent real-world time periods measured in whole calendar months. | [Pixel House Apps](https://markusschuetz.itch.io/) |
 
 ## Input
 
