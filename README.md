@@ -45,9 +45,11 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 
 | Name                                                              | Short Description                                                                                                    | Author                                                              |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Quick Collision Detection](https://pandako.itch.io/qcd)          | This extension provides behaviors and conditions for fast processing of rectangular or circular collision detection. | [PANDAKO](https://pandako.itch.io/)                                 |
+| [AutoTile](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/AutoTile) | Autotile tiles of tilemap objects.                                                                    | [ZeroX4](https://github.com/ZeroAlvein)                             |
+| [AutoTile for sprites](https://github.com/FlokiTV/GDevelop-AutoTile) | This will auto setup your sprite animations to make auto tile                                                     | [FlokiTV](https://github.com/FlokiTV)                               |
+| [Animated tile maps (not free)](https://simr4.itch.io/animated-tilemaps-gdevelop-extension) | Make animated tiles and autotiling                                                         | [Simra](https://simr4.itch.io)                                      |
 | [Add Tilemap Collisions](https://pandako.itch.io/atce4gdevelop)   | This will automatically place collisions in the tilemap object.                                                      | [PANDAKO](https://pandako.itch.io/)                                 |
-| [AutoTile](https://github.com/FlokiTV/GDevelop-AutoTile)          | This will auto setup your animations to make auto tile                                                               | [FlokiTV](https://github.com/FlokiTV)                               |
+| [Quick Collision Detection](https://pandako.itch.io/qcd)          | This extension provides behaviors and conditions for fast processing of rectangular or circular collision detection. | [PANDAKO](https://pandako.itch.io/)                                 |
 | [Tiled Link](https://willianholtz.itch.io/tiledlink-for-gdevelop) | A complete interaction tool for Tiled with Gdevelop.                                                                 | [Willian Holtz](https://willianholtz.itch.io/)                      |
 | [Hitboxes 3D](https://github.com/TheAvIGOLD/GdevelopExtension)    | Determining collision between hitboxes (colliders) or applying raycasting to them                                    | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension)       |
 | [Constraint 3D](https://github.com/M-II-R/Constraint3D)           | Create constraints between 3D physical objects.                                                                      | [M-II-R](https://github.com/M-II-R)                                 |
@@ -60,12 +62,12 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites. | [Puko](https://github.com/pukosnds) |
 | [Change Tilemap ID](https://bubbleone.itch.io/gdevelop-extension-tilemapchangeid) | Change the id of all tiles in a tilemap (not suitable for external tilemaps). | [Bubble](https://bubbleone.itch.io/) |
 | [Sakura Dialog System](https://quetzalcoutl.itch.io/sakura-dialog-system) | A dialogue system made from scratch, designed for simplicity and ease of use, designed with GDevelop in mind. | [Quetzalcoutl](https://quetzalcoutl.itch.io) |
-| [WebXR](https://avram.itch.io/webxr-gdevelop-extension) | Build fully immersive VR games in GDevelop - locomotion, grabbing, throwing, holsters, doors, archery, and so on... | [Avram](https://avram.itch.io) |
 
 ## General
 
 | Name                                                                       | Short Description                           | Author                                                              |
 | -------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------- |
+| [WebXR](https://avram.itch.io/webxr-gdevelop-extension) | Build fully immersive VR games in GDevelop - locomotion, grabbing, throwing, holsters, doors, archery, and so on... | [Avram](https://avram.itch.io) |
 | [Oscilate function](https://github.com/GuestGD/Oscilate_function_Gdevelop) | Oscilate function.                          | [GuestGD](https://github.com/GuestGD?tab=repositories)              |
 | [Choose](https://github.com/UlisesFreitas/Choose-GDevelop-extension)       | Choose a random value given a list of them. | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Advanced random](https://github.com/SnowyRawrGamer/AdvancedRandom)        | Seeded and weighted randomization.          | [Snowy Rawr Gamer](https://github.com/SnowyRawrGamer)               |
