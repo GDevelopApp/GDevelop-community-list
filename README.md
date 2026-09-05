@@ -149,11 +149,12 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Animation system 3d Advanced](https://github.com/GuestGD/Animation_system_3D_Advanced_Gdevelop) | Create bone groups to play several animations simultaneously.                    | [GuestGD](https://github.com/GuestGD?tab=repositories)        |
 | [Material 3D](https://avram.itch.io/material3d-gdevelop-extension)                               | Manipulate 3D material properties of 3D objects.                                 | [Avram](https://avram.itch.io/)                               |
 | [Persona](https://avram.itch.io/persona-gdevelop-extension)                                      | Add personality to game objects.                                                 | [Avram](https://avram.itch.io/)                               |
-| [K3D](https://kravataf.itch.io/gdevelop-extensions)                                      | Add more actions to manipulate threeJS                                                 | [Kravataf](https://github.com/Kravataf)                               |
-| [Outline 3D](https://eldritchtentacles.itch.io/outline3d)                                        | Apply true 3D mesh outline to GLB models.                                        | [Eldritch](https://eldritchtentacles.itch.io/) |
-| [PBR Maps 3D](https://eldritchtentacles.itch.io/pbrmaps3d-gdevelop-extension)                    | Add PBR maps to 3D objects.                                                      | [Eldritch](https://eldritchtentacles.itch.io/) |
-| [Texture 3D](https://eldritchtentacles.itch.io/texture3d-gdevelop-extension)                     | Replace textures or play sprite animations on 3D objects.                        | [Eldritch](https://eldritchtentacles.itch.io/) |
-| [Materials 3D](https://eldritchtentacles.itch.io/materials3d-gdevelop-extension)                 | Change material types and look of 3D objects.                                    | [Eldritch](https://eldritchtentacles.itch.io/) |
+| [K3D](https://kravataf.itch.io/gdevelop-extensions)                                              | Add more actions to manipulate threeJS                                           | [Kravataf](https://github.com/Kravataf)                       |
+| [Outline 3D](https://eldritchtentacles.itch.io/outline3d)                                        | Apply true 3D mesh outline to GLB models.                                        | [Eldritch](https://eldritchtentacles.itch.io/)                |
+| [PBR Maps 3D](https://eldritchtentacles.itch.io/pbrmaps3d-gdevelop-extension)                    | Add PBR maps to 3D objects.                                                      | [Eldritch](https://eldritchtentacles.itch.io/)                |
+| [Texture 3D](https://eldritchtentacles.itch.io/texture3d-gdevelop-extension)                     | Replace textures or play sprite animations on 3D objects.                        | [Eldritch](https://eldritchtentacles.itch.io/)                |
+| [Materials 3D](https://eldritchtentacles.itch.io/materials3d-gdevelop-extension)                 | Change material types and look of 3D objects.                                    | [Eldritch](https://eldritchtentacles.itch.io/)                |
+| [3D Water buoyancy](https://byte-bard.itch.io/3d-water-buoyancy-for-gdevelop)                    | Add floating boats, animated 3D water, wakes, foam trails, ramp driving, camera follow. | [Byte Bard](https://byte-bard.itch.io/)                |
 
 # 💪 How to contribute?
 
