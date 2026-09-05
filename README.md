@@ -143,9 +143,10 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [BabylonGD](https://aliustaoglu.itch.io/babylongd-gdevelop-in-3d)                                | Enable 3D with BabylonJS.                                                        | [Usta Games](https://aliustaoglu.itch.io/)                    |
 | [LOD (Level of Detail)](https://github.com/TheAvIGOLD/GdevelopExtension)                         | Change the level of detail according to the distance in 3D                       | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension) |
 | [Terrain](https://github.com/TheAvIGOLD/GdevelopExtension)                                       | Terrain creation and tools for its modification.                                 | [TheAvIGOLD](https://github.com/TheAvIGOLD/GdevelopExtension) |
-| [Water 3D](https://github.com/M-II-R/Water3D)                                                    | Create 3D water.                                                                 | [M-II-R](https://github.com/M-II-R)                           |
 | [Mirror 3D](https://github.com/M-II-R/Mirror3D)                                                  | Create and manipulate mirrors.                                                   | [M-II-R](https://github.com/M-II-R)                           |
 | [Skeleton tools 3D](https://github.com/M-II-R/SkeletonUtils3D)                                   | Manipulate the skeleton of a 3D model.                                           | [M-II-R](https://github.com/M-II-R)                           |
+| [Water 3D](https://github.com/M-II-R/Water3D)                                                    | Create 3D water.                                                                 | [M-II-R](https://github.com/M-II-R)                           |
+| [3D Water buoyancy](https://byte-bard.itch.io/3d-water-buoyancy-for-gdevelop)                    | Add floating boats, animated 3D water, wakes, foam trails, ramp driving, camera follow. | [Byte Bard](https://byte-bard.itch.io/)                |
 | [Animation system 3d Advanced](https://github.com/GuestGD/Animation_system_3D_Advanced_Gdevelop) | Create bone groups to play several animations simultaneously.                    | [GuestGD](https://github.com/GuestGD?tab=repositories)        |
 | [Material 3D](https://avram.itch.io/material3d-gdevelop-extension)                               | Manipulate 3D material properties of 3D objects.                                 | [Avram](https://avram.itch.io/)                               |
 | [Persona](https://avram.itch.io/persona-gdevelop-extension)                                      | Add personality to game objects.                                                 | [Avram](https://avram.itch.io/)                               |
@@ -154,7 +155,6 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [PBR Maps 3D](https://eldritchtentacles.itch.io/pbrmaps3d-gdevelop-extension)                    | Add PBR maps to 3D objects.                                                      | [Eldritch](https://eldritchtentacles.itch.io/)                |
 | [Texture 3D](https://eldritchtentacles.itch.io/texture3d-gdevelop-extension)                     | Replace textures or play sprite animations on 3D objects.                        | [Eldritch](https://eldritchtentacles.itch.io/)                |
 | [Materials 3D](https://eldritchtentacles.itch.io/materials3d-gdevelop-extension)                 | Change material types and look of 3D objects.                                    | [Eldritch](https://eldritchtentacles.itch.io/)                |
-| [3D Water buoyancy](https://byte-bard.itch.io/3d-water-buoyancy-for-gdevelop)                    | Add floating boats, animated 3D water, wakes, foam trails, ramp driving, camera follow. | [Byte Bard](https://byte-bard.itch.io/)                |
 
 # 💪 How to contribute?
 
