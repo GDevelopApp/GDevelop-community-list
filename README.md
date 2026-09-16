@@ -75,6 +75,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Screen orientation](https://creatorad.itch.io/gdevelop-force-orientation) | Forces the orientation to portrait or landscape. | [Creator AD](https://creatorad.itch.io/)                       |
 | [Battery percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
 | [Pixel House Time Pass](https://markusschuetz.itch.io/pixel-house-time-pass) | Create persistent real-world time periods measured in whole calendar months. | [Pixel House Apps](https://markusschuetz.itch.io/) |
+| [Signals](https://github.com/charuse/Signals) | Allows calling and receiving signals for re-using the same actions in the Action Sheet. | [charuse](https://github.com/charuse) |
 
 ## Input
 
