@@ -76,6 +76,8 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Battery percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
 | [Pixel House Time Pass](https://markusschuetz.itch.io/pixel-house-time-pass) | Create persistent real-world time periods measured in whole calendar months. | [Pixel House Apps](https://markusschuetz.itch.io/) |
 | [Signals](https://github.com/charuse/Signals) | Allows calling and receiving signals for re-using the same actions in the Action Sheet. | [charuse](https://github.com/charuse) |
+| [Formatter](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/Formatter) | Formats large numbers like 1000 to 1.0000 or 1K, pick random word from string of words, format in game or device time in various ways. | [ZeroX4](https://github.com/ZeroAlvein) |
+| [SaveLoadEasy](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/SaveLoadEasy) | Simplify & unify save and load conditions/actions for saving/loading variables to/from storage. | [ZeroX4](https://github.com/ZeroAlvein) |  
 
 ## Input
 
@@ -129,6 +131,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Translate](https://avram.itch.io/translate-gdevelop-extension)                                           | Easily manage translations of your game within external JSON files.                           | [Avram](https://avram.itch.io/)   |
 | [Performance Monitor](https://eldarduil.itch.io/performance-monitor-for-gdevelop)                         | Displays performance overlays (FPS, MS,  MB , Draw Calls, Triangles, Geometries, Texture)                           | [Eldarduil](https://eldarduil.itch.io/)   |
 | [Focus Objects](https://github.com/QuetzalcoutlDev/GDevelopFocusObjects) | A button/object focusing system that allows you to select objects using only the keyboard or controller. | [Quetzalcoutl](https://quetzalcoutl.itch.io) |
+| [HeartPieClones](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/HeartPieClones) | Display sprite frames of animation based on some number at any position in various ways, for example hearts based on your health. | [ZeroX4](https://github.com/ZeroAlvein) |
 
 ## Visual effect
 
