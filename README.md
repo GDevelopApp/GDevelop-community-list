@@ -55,6 +55,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Constraint 3D](https://github.com/M-II-R/Constraint3D)           | Create constraints between 3D physical objects.                                                                      | [M-II-R](https://github.com/M-II-R)                                 |
 | [Quests Creator](https://github.com/UlisesFreitas/QuestsCreator)  | Create quests like collect 3 coins, or kill 3 zombies.                                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
 | [Easy Save](https://github.com/UlisesFreitas/EasySave)            | Save data easily without worrying about creating variables or Storage.                                               | [Ulises Freitas](https://github.com/UlisesFreitas?tab=repositories) |
+| [SaveLoadEasy](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/SaveLoadEasy) | Simplify & unify save and load conditions/actions for saving/loading variables to/from storage. | [ZeroX4](https://github.com/ZeroAlvein) |  
 | [Distance of draw](https://anaw.itch.io/distanceofdraw)           | Make the object disappear if is too far away.                                                                        | [anaw studios](https://anaw.itch.io/)                               |
 | [Maze Generator](https://luxon5.itch.io/gdevelop-maze-extension-demo) | Create a maze with walls and a floor.                                                                            | [Luxon5](https://luxon5.itch.io/)                                   |
 | [Combo System](https://raada.itch.io/combo-system-gdevelop-extension)                  | A simple yet powerful system for creating and managing timed combos.                            | [Raada](https://raada.itch.io/)   |
@@ -76,8 +77,6 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Battery percentage](https://creatorad.itch.io/gd-get-battery-percentage)  | Get current battery percentage.                  | [Creator AD](https://creatorad.itch.io/)                       |
 | [Pixel House Time Pass](https://markusschuetz.itch.io/pixel-house-time-pass) | Create persistent real-world time periods measured in whole calendar months. | [Pixel House Apps](https://markusschuetz.itch.io/) |
 | [Signals](https://github.com/charuse/Signals) | Allows calling and receiving signals for re-using the same actions in the Action Sheet. | [charuse](https://github.com/charuse) |
-| [Formatter](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/Formatter) | Formats large numbers like 1000 to 1.0000 or 1K, pick random word from string of words, format in game or device time in various ways. | [ZeroX4](https://github.com/ZeroAlvein) |
-| [SaveLoadEasy](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/SaveLoadEasy) | Simplify & unify save and load conditions/actions for saving/loading variables to/from storage. | [ZeroX4](https://github.com/ZeroAlvein) |  
 
 ## Input
 
@@ -132,6 +131,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [Performance Monitor](https://eldarduil.itch.io/performance-monitor-for-gdevelop)                         | Displays performance overlays (FPS, MS,  MB , Draw Calls, Triangles, Geometries, Texture)                           | [Eldarduil](https://eldarduil.itch.io/)   |
 | [Focus Objects](https://github.com/QuetzalcoutlDev/GDevelopFocusObjects) | A button/object focusing system that allows you to select objects using only the keyboard or controller. | [Quetzalcoutl](https://quetzalcoutl.itch.io) |
 | [HeartPieClones](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/HeartPieClones) | Display sprite frames of animation based on some number at any position in various ways, for example hearts based on your health. | [ZeroX4](https://github.com/ZeroAlvein) |
+| [Formatter](https://github.com/ZeroAlvein/Gdevelop-Extensions/tree/main/Formatter) | Formats large numbers like 1000 to 1.0000 or 1K, pick random word from string of words, format in game or device time in various ways. | [ZeroX4](https://github.com/ZeroAlvein) |
 
 ## Visual effect
 
