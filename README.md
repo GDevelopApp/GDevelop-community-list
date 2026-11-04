@@ -63,6 +63,7 @@ This is a list of extensions made by members of the [GDevelop](https://gdevelop.
 | [3D Positions And Forces](https://github.com/pukosnds/gdExt.3DPosAndForces) | Adds basic and complex 3D functionalites. | [Puko](https://github.com/pukosnds) |
 | [Change Tilemap ID](https://bubbleone.itch.io/gdevelop-extension-tilemapchangeid) | Change the id of all tiles in a tilemap (not suitable for external tilemaps). | [Bubble](https://bubbleone.itch.io/) |
 | [Sakura Dialog System](https://quetzalcoutl.itch.io/sakura-dialog-system) | A dialogue system made from scratch, designed for simplicity and ease of use, designed with GDevelop in mind. | [Quetzalcoutl](https://quetzalcoutl.itch.io) |
+| [Concave Collision for Physics](https://anas-alkhatib.itch.io/concave-collision-for-physics) | Build static physics collision from a transparent image: arcs, curves and hills that Physics 2.0 can't do on its own. | [Anas Alkhatib](https://anas-alkhatib.itch.io/) |
 
 ## General
 
